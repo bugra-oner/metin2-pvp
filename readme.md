@@ -124,3 +124,63 @@ Metin2 platformunuz için en etkili reklam mecralarını belirlemek, hedef kitle
 Unutmayın, her platformun kendine özgü dinamikleri vardır ve hedef kitlenizin davranışlarını anlamak, reklamlarınızın başarısı için kritiktir.
 
 
+# Facebook Reklam Performansı Analizi
+
+Bu döküman, 10.000 TL bütçe ile Facebook reklam kampanyasında elde edilebilecek tıklama ve görüntülenme tahminlerini içermektedir.
+
+---
+
+## **1. Ortalama Maliyetler**
+| Metrik                  | Ortalama Değerler   |
+|-------------------------|---------------------|
+| **Görüntülenme Başına Maliyet (CPM)** | 25-40 TL / 1.000 kişi |
+| **Tıklama Başına Maliyet (CPC)**      | 1-2 TL / tıklama      |
+
+---
+
+## **2. Tahmini Erişim**
+
+### **Görüntülenme Sayısı:**
+- **Hesaplama:**  
+  - 10.000 TL ÷ 30 TL (ortalama CPM)  
+  - **333.000 - 400.000 Görüntülenme**
+
+### **Tıklama Sayısı:**
+- **Hesaplama:**  
+  - 10.000 TL ÷ 1,50 TL (ortalama CPC)  
+  - **6.666 - 8.000 Tıklama**
+
+---
+
+## **3. Performansı Etkileyen Faktörler**
+1. **Hedef Kitle:**
+   - Geniş kitlelerde maliyetler daha düşük olabilir.
+   - Niş hedef kitlelerde maliyet artabilir ancak dönüşüm oranı yükselir.
+2. **Reklam Türü:**
+   - **Video Reklamlar:** Daha fazla etkileşim sağlar, CPC daha düşük olabilir.
+   - **Görsel Reklamlar:** Daha statik bir etki yaratır, genelde daha yüksek CPC'ye sahiptir.
+3. **Reklam Süresi:** 
+   - Uzun vadeli reklamlar maliyetleri optimize edebilir.
+4. **İçerik Kalitesi:** 
+   - İlgi çekici ve kaliteli içerikler, tıklama oranlarını artırır ve maliyetleri düşürür.
+
+---
+
+## **4. Öneriler**
+- **Günlük Harcama Planı:**  
+  10.000 TL’yi 20 gün boyunca, günlük 500 TL harcayarak optimize edebilirsiniz.
+- **Performans Analizi:**  
+  Reklam süresince, performans izleyerek iyi sonuç veren içeriklere bütçe kaydırabilirsiniz.
+- **A/B Testleri:**  
+  Birden fazla kampanya oluşturarak, hangi hedeflemenin ve içeriğin daha iyi performans gösterdiğini test edin.
+
+---
+
+## **Sonuç**
+10.000 TL bütçeyle yapılan bir Facebook reklam kampanyasında:
+- **Görüntülenme:** 333.000 - 400.000
+- **Tıklama:** 6.666 - 8.000
+
+Optimizasyon ile daha iyi sonuçlar elde edilebilir. Detaylı planlama ve performans takibi, kampanyanın başarısını artıracaktır.
+
+
