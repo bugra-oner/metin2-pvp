@@ -5,13 +5,14 @@
 
 - **Toplam Reklam Ücreti:** 15000
 - **Kişi Sayısı:** 4
-- **Kişi Başı Ücret:** 15000 ÷ 4 = 3750
+- **Kişi Başı Ücret:** 15000 ÷ 4 = 3750 
+- **Kişi Başı Toplam Ücret:** 17500 ÷ 4 = 5750
 
 ## Ek İşlemler
 
- 1000 = 250 
+ 8000 / 4 = 2000 
 
-**Not:** 4000 bir dosyaya ait toplam maliyet olabilir.
+**Not:** 2000 bir dosyaya ait toplam maliyet olabilir.
 
 
 # Metin2 Platformu İçin Facebook Reklam Analizi
