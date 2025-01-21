@@ -9,8 +9,8 @@
 
 ## Ek İşlemler
 
-- 3750 + 1250 = 5000
+ 1000 = 250 
 
-**Not:** 5000 bir dosyaya ait toplam maliyet olabilir.
+**Not:** 4000 bir dosyaya ait toplam maliyet olabilir.
 
 
