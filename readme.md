@@ -122,3 +122,5 @@ Metin2 platformunuz için en etkili reklam mecralarını belirlemek, hedef kitle
 ---
 
 Unutmayın, her platformun kendine özgü dinamikleri vardır ve hedef kitlenizin davranışlarını anlamak, reklamlarınızın başarısı için kritiktir.
+
+
