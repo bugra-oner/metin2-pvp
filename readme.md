@@ -6,11 +6,11 @@
 - **Toplam Reklam Ücreti:** 15000
 - **Kişi Sayısı:** 4
 - **Kişi Başı Ücret:** 15000 ÷ 4 = 3750 
-- **Kişi Başı Toplam Ücret:** 17500 ÷ 4 = 5750
+- **Kişi Başı Toplam Ücret:** 17875 ÷ 4 = 4.468,75
 
 ## Ek İşlemler
 
- 8000 / 4 = 2000 
+ Sunucu Files 11500 / 4 = 2.875 
 
 **Not:** 2000 bir dosyaya ait toplam maliyet olabilir.
 
