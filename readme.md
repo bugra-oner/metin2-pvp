@@ -185,3 +185,25 @@ Bu döküman, 10.000 TL bütçe ile Facebook reklam kampanyasında elde edilebil
 Optimizasyon ile daha iyi sonuçlar elde edilebilir. Detaylı planlama ve performans takibi, kampanyanın başarısını artıracaktır.
 
 
+# Reklam Platformları Karşılaştırma Tablosu
+
+| **Kriterler**              | **Itemci**                                                | **Itempol**                                              | **Facebook**                                              |
+|----------------------------|----------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|
+| **Hedef Kitle**            | Doğrudan Metin2 oyuncuları                                | Doğrudan Metin2 oyuncuları                               | Daha geniş ve çeşitli bir kullanıcı kitlesi               |
+| **Erişim Alanı**           | Sınırlı kullanıcı tabanı                                  | Sınırlı kullanıcı tabanı                                 | Geniş küresel erişim                                       |
+| **Reklam Türleri**         | Banner, pop-up, giriş intro                               | Banner, site içi reklamlar                               | Video, görsel, koleksiyon, slayt ve dinamik reklamlar      |
+| **Reklam Maliyetleri**     | Yüksek (25.000 - 40.000 TL arasında değişiyor)            | Belirsiz (doğrudan iletişim gerektirir)                 | Esnek (1 TL CPC veya 25-40 TL CPM ile bütçeye göre ayarlanabilir) |
+| **Geri Dönüşler**          | Oyun bilgisine hakim, ancak nesne market kullanmayan oyuncular | Oyun bilgisine hakim, ancak nesne market kullanmayan oyuncular | Olası yeni oyuncular ve nesne market kullanıcıları         |
+| **Hedefleme Özellikleri**  | Kısıtlı hedefleme seçenekleri                             | Kısıtlı hedefleme seçenekleri                            | Yaş, cinsiyet, ilgi alanları, davranışlar gibi detaylı hedefleme |
+| **Avantajları**            | Hedef kitleye doğrudan ulaşma                             | Hedef kitleye doğrudan ulaşma                            | Geniş kitle erişimi, esnek bütçe                          |
+| **Dezavantajları**         | Yüksek maliyet, sınırlı erişim                            | Sınırlı erişim, reklam detayları belirsiz                | Reklamın doğru hedeflenmemesi durumunda ilgisiz kitleye ulaşma |
+
+---
+
+## **Sonuç ve Öneri**
+- **Düşük Bütçe:** Facebook reklamları esnek maliyetleri ve geniş erişim olanaklarıyla öne çıkar.
+- **Doğrudan Hedef Kitle:** Itemci ve Itempol, Metin2 oyuncularına ulaşmak için uygundur; ancak maliyetler yüksek olabilir.
+- **Karma Strateji:** Küçük bütçelerle her iki platformu test ederek, en yüksek geri dönüş sağlayanı tercih edebilirsiniz.
+
+
+
